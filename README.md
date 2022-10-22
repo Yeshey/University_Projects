@@ -1,4 +1,4 @@
-# ISEC_Projects
+# University_Projects
 To keep track of the projects done in the context of my University
 
 [C-Programming-project](https://github.com/Yeshey/C-programming-project-2021)  
@@ -8,3 +8,5 @@ To keep track of the projects done in the context of my University
 [Unix_Project-SO](https://github.com/Paulitchos/Unix_Project-SO)   
 [PooIsland, Objected Oriented Project](https://github.com/fxvnder/PooIsland)   
 [Data Bases Project](https://github.com/Paulitchos/Base_de_Dados)
+[SecurityInDistributedSystemsServer](https://github.com/Yeshey/SecurityInDistributedSystems)
+[SignLanguageDestection AI Model with Tenserflow in Arduino](https://github.com/Yeshey/SignLanguageDetection_TenserFlow_RaspberryPi)
