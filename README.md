@@ -10,3 +10,6 @@ To keep track of the projects done in the context of my University
 [Data Bases Project](https://github.com/Paulitchos/Base_de_Dados)  
 [SecurityInDistributedSystemsServer](https://github.com/Yeshey/SecurityInDistributedSystems)  
 [SignLanguageDestection AI Model with Tenserflow in Arduino](https://github.com/Yeshey/SignLanguageDetection_TenserFlow_RaspberryPi)  
+[Flutter Canteen, AMOV module](https://github.com/Yeshey/FlutterCanteen)  
+[Rental4You in c#, PWEB module](https://github.com/hooper1337/Rental4You)  
+[UniversityMealsMadeEasy, GPS module, Java and project organization](https://github.com/kylixalex/UniversityMealsMadeEasy)  
